@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'Uptime Status',
+  SiteName: 'jinjiuling DE Web Status',
 
   // 站点链接
   SiteUrl: 'http://staus.jinjiuling.tk',
@@ -32,7 +32,7 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'http://tb.jinjiuling.tk/'
+      url: 'https://blog.jinjiuling.tk/'
     },
     {
       text: 'GitHub',
